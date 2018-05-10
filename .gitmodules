@@ -1,0 +1,6 @@
+[submodule "cd-metrics-demo-a"]
+	path = cd-metrics-demo-a
+	url = git@github.com:jordanglassman/cd-metrics-demo-a.git
+[submodule "cd-metrics-demo-b"]
+	path = cd-metrics-demo-b
+	url = git@github.com:jordanglassman/cd-metrics-demo-b.git
